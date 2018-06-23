@@ -1,0 +1,27 @@
+1.smartTextfield.directive.js
+uniqueIDGenerator function should be a service at common place
+and not in smartText -- can be used across
+
+2.GETUTCDATE should be used in place of GETDATE in sp's -- sent mail
+
+3.Documents are not getting encrypted when getting stored-- gave suggestion to arun
+
+4. DAOManager dictionary can be improved --gave suggestion to arun
+
+5.RestService improvement sent mail -- sent mail
+6.came on 11th oct on public holiday to work --
+7. worked with shiva on precision
+8.sent mail for javascript standards
+9.worked on saved view popup
+
+10.came on
+
+ 22ndOct Sat
+
+26thNov2016- interview
+10thDec 11th dec office
+
+24th dec 2016 - office
+
+Jan 7th 8th office
+Feb-11th
